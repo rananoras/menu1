@@ -1,0 +1,6 @@
+{
+  "name": "ORZR Al-Thuraya | ثريا - المعرض الرقمي الفاخر للمطعم والمقهى",
+  "description": "معرض رقمي تفاعلي فاخر لمطعم ومقهى راقٍ في المملكة العربية السعودية بنمط إيديتوريال ياباني وألوان الأسود والذهب، مع طلبات ودفع عبر الواتساب وعرض ثلاثي الأبعاد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
